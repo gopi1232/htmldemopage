@@ -1,0 +1,120 @@
+*
+{
+    padding : 0px;
+    margin : 0px;
+    box-sizing: border-box;
+}
+a
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: white;   
+}
+
+p
+{
+    font-size:17px;
+    font-family:sans-serif;
+    padding-bottom: 10px;
+}
+img{
+    
+    background-size: cover;
+}
+
+header
+{
+    margin-bottom:20px;
+    background-color: black;
+    color: white;
+}
+#logo
+{
+    text-align: center;
+}
+#nav
+{
+
+padding : 30px 0px 80px 200px ;
+
+padding-right: 200px;
+}
+
+#logo
+{
+    float: left;
+    display: inline;
+    
+}
+#links
+{
+    float: right;
+    background-color: grey;
+    margin:0px 100px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+article
+{
+    clear: both;
+    margin-left:300px;
+    margin-right:300px;
+}
+#big
+{   width: 1000px;   
+    height: 500px;
+    object-fit: cover;
+}
+#conten1
+{
+    margin: 10px 0px;
+}
+
+#left
+{
+    
+    float: left;
+    width: 470px;
+}
+.dark-box
+{   
+    float: left;
+    display: inline;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 125px;
+    width: 200px;
+    padding: 60px 0px;
+    border-radius: 5px;
+    margin-right: 10px;
+    opacity: 0.9;
+    
+}
+.part1{
+    float: right;
+    
+    padding: 10px;
+}
+#right
+{  
+    float: right;
+    width: 470px;
+}
+
+#small
+{
+    clear: both;
+}
+#small
+{
+   padding: 10px 0px;
+}
+.small
+{
+    width: 242px;
+    height: 200px;
+}
